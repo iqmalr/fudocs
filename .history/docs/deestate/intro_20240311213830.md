@@ -1,0 +1,17 @@
+---
+sidebar_position: 1
+---
+
+# Introduction
+
+<!-- import myImageUrl from './../assets/docusaurus-asset-example-banner.png'; -->
+
+![An image from the static](../../src/images/deestate.jpeg)
+
+<!-- <img src={myImageUrl} alt="Example banner" />; -->
+
+Welcome to Deestate, an engaging static web application meticulously crafted with React, Tailwind CSS, and Framer Motion. Deestate serves as an enchanting landing page tailored to assist users in discovering and exploring various residential properties. From its dynamic hero section to the interactive company showcase, this landing page provides a seamless and visually appealing experience for individuals searching for their ideal homes.
+
+Discover the capabilities driven by Framer Motion animations, an elegant search form, and a curated list of reputable companies in the real estate industry. Immerse yourself in the world of Deestate to connect with the finest property opportunities and make well-informed decisions about your next home.
+
+Let this documentation serve as your guide through the components, structure, and features of Deestate, enabling you to comprehend and harness the full potential of this web application. Visit [Deestate](https://deestate.netlify.app/) to experience it firsthand.

@@ -1,0 +1,8 @@
+{
+  "label": "Javascript Collection's",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Welcome to the Javascript Collection's section! Here, we present a compilation of React formulas and tricks that will enrich your development experience. In this series of tutorials, you will discover various key concepts in React, including the utilization of hooks, ternary operators, and more, all accompanied by live JSX examples."
+  }
+}
